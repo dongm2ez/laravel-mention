@@ -1,5 +1,5 @@
 {
-    "name": "dongm2ez/mention",
+    "name": "dongm2ez/larvel-mention",
     "description": "a laravel user mentioned package",
     "type": "library",
     "require": {
