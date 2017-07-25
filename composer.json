@@ -1,0 +1,29 @@
+{
+    "name": "dongm2ez/mention",
+    "description": "a laravel user mentioned package",
+    "type": "library",
+    "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "laravel/framework": "~5.1",
+        "phpunit/phpunit": "~4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "dongm2ez\\mention\\": "src/"
+        }
+    },
+    "autoload-dev": {
+      "psr-4": {
+          "dongm2ez\\mention\\Test\\": "tests"
+      }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dongm2ez",
+            "email": "dongm2ez@gmail.com"
+        }
+    ]
+}
