@@ -11,12 +11,12 @@
     },
     "autoload": {
         "psr-4": {
-            "dongm2ez\\mention\\": "src/"
+            "Dongm2ez\\Mention\\": "src/"
         }
     },
     "autoload-dev": {
       "psr-4": {
-          "dongm2ez\\mention\\Test\\": "tests"
+          "Dongm2ez\\Mention\\Test\\": "tests"
       }
     },
     "license": "MIT",
