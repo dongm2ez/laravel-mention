@@ -29,7 +29,7 @@ class Mention
         $this->userNames = $this->mentionedUser();
 
         if (count($this->userNames) > 0) {
-            $model = app()->make(config('mention.users.model', 'App\Models\UserProfile'));
+            $model = app()->make(config('mention.users.model', 'App\User'));
             $this->users = $model::whereIn('name', $this->userNames)->get();
         }
 
