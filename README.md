@@ -18,7 +18,7 @@
 # Installation
 
 ```shell
-$ composer require "dongm2ez/mention" -vvv
+$ composer require dongm2ez/larvel-mention
 ```
 
 After installing the library, register the `Dongm2ez\Mention\MentionServiceProvider` in your `config/app.php` file:
@@ -65,6 +65,8 @@ return [
 # Usage
 
 ```php
+
+$parseText = Mention::parse("@david @Aaron @Judy @麦索 Balabalabala...");
 
 ```
 
