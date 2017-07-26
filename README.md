@@ -4,6 +4,13 @@
 
 <p align="center">:heart: This package helps you complete @ function</p>
 
+<p align="center">
+<a href="https://packagist.org/packages/dongm2ez/larvel-mention"><img src="https://poser.pugx.org/dongm2ez/larvel-mention/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/dongm2ez/larvel-mention"><img src="https://poser.pugx.org/dongm2ez/larvel-mention/v/unstable.svg" alt="Latest Unstable Version"></a>
+<a href="https://packagist.org/packages/dongm2ez/larvel-mention"><img src="https://poser.pugx.org/dongm2ez/larvel-mention/downloads" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/dongm2ez/larvel-mention"><img src="https://poser.pugx.org/dongm2ez/larvel-mention/license" alt="License"></a>
+</p>
+
 # Requirement
 
 - PHP >= 5.4.0
